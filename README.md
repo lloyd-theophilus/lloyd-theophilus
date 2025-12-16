@@ -6,7 +6,7 @@ I’m Lloyd Theophilus Osabutey-Anikon, a Cloud Native Engineer and Developer Ad
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lloyd-theophilus&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikiodazie&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lloyd-theophilus&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 
