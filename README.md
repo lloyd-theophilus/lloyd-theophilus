@@ -20,10 +20,10 @@ I WANT TO BE THE BEST DEVOPS ENGINEER!!!**
 **🏃🏿 Personal Interests**
 
 Aside from the world of software, I enjoy watching and playing football (soccer), listening to good music, traveling (I love airports but dread them too 😆), and having fun in my own way.
-**
-💬 Socials and How to reach me**
 
-Linkedin Badge Twitter Badge Slack Badge
+**💬 Socials and How to reach me****
+
+Linkedin Badge Twitter Badge AWS Community Builder Slack Badge
 
 **🫃🏿 My Work as a Cloud Native Engineer**
 
