@@ -27,7 +27,7 @@ I started my career as a Backend Engineer at a startup. I have worked for compan
 
 I am passionate about helping developers adopt cloud native technologies and build scalable, reliable, and secure applications. I am also a strong advocate for open source software and believe that it is essential for innovation.
 
-<h2 align="center">  <strong>I WANT TO BE THE BEST DEVELOPER ADVOCATE EVER!!!  </strong></h2> 
+<h2 align="center">  <strong>I WANT TO BE THE BEST CLOUD NATIVE DEVOPS ENGINEER EVER!!!  </strong></h2> 
 
 ## 🏃🏿 Personal Interests
 Aside from the world of software, I enjoy watching and playing football (soccer), listening to good music, traveling, and having fun in my own way.
