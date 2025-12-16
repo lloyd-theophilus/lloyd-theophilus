@@ -1,5 +1,6 @@
-Hey there 👋🏿
-👋🏿 Hey there! I’m Lloyd Theophilus Osabutey-Anikon, a Cloud Native Engineer and Developer Advocate with experience in System Design, DevOps, Technical Writing, Public Speaking, and Startups.
+**Hey there 👋🏿**
+
+I’m Lloyd Theophilus Osabutey-Anikon, a Cloud Native Engineer and Developer Advocate with experience in System Design, DevOps, Technical Writing, Public Speaking, and Startups.
 
  
 **👨🏿‍🚀 Professional Journey**
