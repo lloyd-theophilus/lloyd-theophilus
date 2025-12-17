@@ -71,21 +71,20 @@ I am active in the Cloud Native and DevOps community as:
 #
 
 ### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How To Get a DevOps Internship in 2026 as a Beginner | Step-by-Step Guide](https://ytcards.demolab.com/?id=ecV07gkVxUg&title=Regretting+Computer+Science&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "How To Get a DevOps Internship in 2026 as a Beginner | Step-by-Step Guid")](https://youtu.be/-mBnad_an6Q)
-[![How to setup and configure AWS Three Tier Architecture](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+Linux+Commands+EVERY+Dev+Should+Know&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "How to setup and configure AWS Three Tier Architecture")](https://youtu.be/w-CEfnGtZes)
-[![How to learn linux the right way | Beginners guide Part 1](https://ytcards.demolab.com/?id=H3Q-zXz1BpU&title=Every+Programmer%27s+Favorite+Laptop+%2F%2F+you+can+win+one&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "How to learn linux the right way | Beginners guide Part 1")](https://youtube.com/live/tMdzvqC9z7s)
-[![How to Write a Python Automation Script | Beginner's Guide](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "How to Write a Python Automation Script | Beginner's Guide")](https://youtube.com/live/Wp7Ai5fPb3c)
-[![Global DevOps Mentorship Call](https://ytcards.demolab.com/?id=yz4i8vD-Klc&title=I+Tried+Coding+on+Every+OS+%2F%2F+Here%E2%80%99s+What+I+Learned&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "Global DevOps Mentorship Call")](https://youtube.com/live/JGlRF5n-8ng)
-[![How to setup AWS Transit Gateway: A Comprehensive Guide](https://ytcards.demolab.com/?id=UZuWeLjyT3c&title=Java+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "How to setup AWS Transit Gateway: A Comprehensive Guide")](https://youtu.be/74G-vIUcAFY)
+[![How To Get a DevOps Internship in 2026 as a Beginner | Step-by-Step Guide](https://ytcards.demolab.com/?id=-mBnad_an6Q&title=How+To+Get+a+DevOps+Internship+in+2026+as+a+Beginner+%7C+Step-by-Step+Guide&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "How To Get a DevOps Internship in 2026 as a Beginner | Step-by-Step Guide")](https://youtu.be/-mBnad_an6Q)
+[![How to setup and configure AWS Three Tier Architecture](https://ytcards.demolab.com/?id=w-CEfnGtZes&title=How+to+setup+and+configure+AWS+Three+Tier+Architecture&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "How to setup and configure AWS Three Tier Architecture")](https://youtu.be/w-CEfnGtZes)
+[![How to learn linux the right way | Beginners guide Part 1](https://ytcards.demolab.com/?id=tMdzvqC9z7s&title=How+to+learn+linux+the+right+way+%7C+Beginners+guide+Part+1&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "How to learn linux the right way | Beginners guide Part 1")](https://youtube.com/live/tMdzvqC9z7s)
+[![How to Write a Python Automation Script | Beginner's Guide](https://ytcards.demolab.com/?id=Wp7Ai5fPb3c&title=How+to+Write+a+Python+Automation+Script+%7C+Beginner%27s+Guide&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "How to Write a Python Automation Script | Beginner's Guide")](https://youtube.com/live/Wp7Ai5fPb3c)
+[![Global DevOps Mentorship Call](https://ytcards.demolab.com/?id=JGlRF5n-8ng&title=Global+DevOps+Mentorship+Call&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "Global DevOps Mentorship Call")](https://youtube.com/live/JGlRF5n-8ng)
+[![How to setup AWS Transit Gateway: A Comprehensive Guide](https://ytcards.demolab.com/?id=74G-vIUcAFY&title=How+to+setup+AWS+Transit+Gateway%3A+A+Comprehensive+Guide&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "How to setup AWS Transit Gateway: A Comprehensive Guide")](https://youtu.be/74G-vIUcAFY)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCUiMJ5tQuCR5wOlRLX5cjGg)
 
 #
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
