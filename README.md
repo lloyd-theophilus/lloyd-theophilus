@@ -5,13 +5,17 @@ I’m Lloyd Theophilus Osabutey-Anikon, a Cloud Native Engineer and Developer Ad
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lloyd-theophilus&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
-
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=lloyd-theophilus&theme=blue-green&hide_border=false" />
 </a>
 
+<br/>
+<br/>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lloyd-theophilus&limit=5&theme=blue-green&combine_all_yearly_contributions=true)        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd-theophilus&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=lloyd-theophilus&limit=5&theme=blue-green&combine_all_yearly_contributions=true)   <br/> <br/>     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd-theophilus&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
