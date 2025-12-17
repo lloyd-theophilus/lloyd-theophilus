@@ -3,11 +3,16 @@
 I’m Lloyd Theophilus Osabutey-Anikon, a Cloud Native Engineer and Developer Advocate with experience in System Design, DevOps, Technical Writing, Public Speaking, and Startups.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lloyd-theophilus&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lloyd-theophilus&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lloyd-theophilus&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=lloyd-theophilus&theme=blue-green&hide_border=false" />
 </a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lloyd-theophilus&limit=5&theme=blue-green&combine_all_yearly_contributions=true)        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd-theophilus&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 👨🏿‍🚀 Professional Journey
@@ -75,3 +80,13 @@ I am active in the Cloud Native and DevOps community as:
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCUiMJ5tQuCR5wOlRLX5cjGg)
 
 #
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=lloyd-theophilus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
